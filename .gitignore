@@ -1,4 +1,3 @@
-.vnev/
+.vnev
 .env
-*.env
-/.env.*
+
